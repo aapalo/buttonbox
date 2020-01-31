@@ -1955,7 +1955,7 @@
   (gr_text "RAW\nGND\nRST\nVCC\nF4\nF5\nF6\nF7\nB1\nB3\nB2\nB6" (at 104.902 100.33 90) (layer F.SilkS) (tstamp 5E129C59)
     (effects (font (size 1.6 1.6) (thickness 0.15)) (justify left))
   )
-  (gr_text "D3\nD2\nGND\nGND\nD1\nD0\nD4\nC6\nC7\nE6\nB4\nB5" (at 104.902 118.872 90) (layer F.SilkS) (tstamp 5E13A4DC)
+  (gr_text "D3\nD2\nGND\nGND\nD1\nD0\nD4\nC6\nD7\nE6\nB4\nB5" (at 104.902 118.872 90) (layer F.SilkS) (tstamp 5E13A4DC)
     (effects (font (size 1.6 1.6) (thickness 0.15)) (justify right))
   )
   (gr_text "E2\nF2\nG2\nH2" (at 156.718 109.474) (layer B.SilkS) (tstamp 5E0DEF0C)
