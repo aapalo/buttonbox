@@ -1,12 +1,16 @@
 # Button box
 
+The TM Cougar Throttle USB-mod has been forked into its own repository, which can be found from here: 
+<https://github.com/aapalo/cougar-usb>
+
 Features:
 - Can be used to convert a TM Cougar Throttle into a USB device, or as a stand-alone button box.
 - Several boards can be daisy-chained via the 1x5 pin socket J11.
 - The dimensions of the PCB are 112mm * 37mm.
 
-Errata:
+v1.0 errata:
 - Pro micro pin 9, PM_C7, should be PM_D7
+
 
 ----
 
@@ -33,6 +37,9 @@ When used as a stand-alone button box, the board should fit inside a Hammond [15
 ----
 
 [//]: # (Todo: add pictures of a soldered version)
+
+A soldered and installed version in use:
+![](./pics/demo.png)
 
 The schematic, with some of the planned DCS key bindings visible:
 ![](./pics/schema.png)
